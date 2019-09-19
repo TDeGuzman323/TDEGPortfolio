@@ -1,0 +1,67 @@
+
+
+  * {
+    box-sizing: border-box;
+    text-align: left;
+    background: 
+  }
+
+
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ffffff;
+    border-color: #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+
+  h1 {
+    background: #4aaaa5;
+    color: #ffffff;
+    padding: 20px;
+    margin-bottom: 100px;
+    float: left;
+    border-color: #cccccc;
+  }
+
+  #buttons {
+    float: right;
+    padding: 50px;
+    margin-bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+  }
+
+  h2 {
+    padding: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    border-color: #cccccc;
+    font-style: underline;
+
+  }
+
+  #Tara {
+    float: left;
+    
+  }
+  
+  #about {
+    text-align: left;
+    padding: 50px;
+    margin-bottom: 30px;
+    border-color: #cccccc;
+  }
+
+  footer {
+    padding: 20px;
+    clear: both;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+  
+  }
+
